@@ -35,7 +35,7 @@ Cette application permet de :
 
 ---
 
-## Technologies utilisées
+## Languages
 
 - **HTML5**
 - **CSS3**
